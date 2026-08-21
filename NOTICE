@@ -1,0 +1,30 @@
+FreeCORE release delta — freebsd-src
+================================
+
+FreeCORE carries the TrueNAS® CORE 13.3 system forward as an independently
+maintained operating system on FreeBSD. It is not affiliated with or endorsed
+by iXsystems, Inc. Thanks to the FreeNAS and TrueNAS contributors whose
+open-source work made this possible.
+
+
+Upstream lineage
+----------------
+
+This repository publishes the FreeCORE release delta against freebsd/freebsd-src. It
+does not republish that upstream repository or the private development commit
+chronology. The README identifies the base and credits the contributors whose
+work is represented in the delta.
+
+
+Licensing
+---------
+
+The delta is distributed under BSD-2-Clause, matching the source it modifies.
+Nothing is relicensed, and existing copyright and licence notices are
+preserved.
+
+
+Trademarks
+----------
+
+See TRADEMARKS.md.
